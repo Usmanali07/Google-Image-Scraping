@@ -9,9 +9,9 @@ A library to scrap google images
 
 ## Setup:
 1. Open cmd
-2. Clone the repository (or [download](https://github.com/ohyicong/Google-Image-Scraper/archive/refs/heads/master.zip))
+2. Clone the repository (or [download](https://github.com/Usmanali07/Google-Image-Scraping)
     ```
-    git clone https://github.com/ohyicong/Google-Image-Scraper
+    git clone https://github.com/Usmanali07/Google-Image-Scraping
     ```
 3. Install Dependencies
     ```
@@ -34,7 +34,7 @@ webdriver_path = os.path.normpath(os.path.join(os.getcwd(), 'webdriver', webdriv
 image_path = os.path.normpath(os.path.join(os.getcwd(), 'photos'))
 
 #Add new search key into array ["cat","t-shirt","apple","orange","pear","fish"]
-search_keys= ["cat","t-shirt"]
+search_keys= ["Ethnicity"]
 
 #Parameters
 number_of_images = 10
@@ -49,7 +49,5 @@ for search_key in search_keys:
     image_scrapper.save_images(image_urls)
 
 ```
-## Youtube Video:
-[![IMAGE ALT TEXT](https://github.com/ohyicong/Google-Image-Scraper/blob/master/youtube_thumbnail.PNG)](https://youtu.be/QZn_ZxpsIw4 "Google Image Scraper")
 
-Do remember to like, share and subscribe!
+[![IMAGE ALT TEXT](https://github.com/Usmanali07/Google-Image-Scraping")
