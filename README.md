@@ -50,4 +50,6 @@ for search_key in search_keys:
 
 ```
 
-[![IMAGE ALT TEXT](https://github.com/Usmanali07/Google-Image-Scraping")
+<p>
+    <img src="https://github.com/Usmanali07/Google-Image-Scraping/blob/main/youtube_thumbnail.PNG" alt="Italian Trulli">
+ </p>
